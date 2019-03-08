@@ -64,7 +64,11 @@ sudo chkconfig jenkins on
 ## install Git on Ec2 instance and clone the Remote Repo to Ec2 
 
 yum install git -y
+
 git
+
 git --version
+
 git clone https://github.com/Aa54035/firstreactjs.git
+
 git branch
